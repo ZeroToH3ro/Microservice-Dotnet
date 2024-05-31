@@ -1,0 +1,6 @@
+@WebPlatform_HostAddress = http://localhost:5250
+
+GET {{WebPlatform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
